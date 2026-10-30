@@ -21,7 +21,7 @@ I also learned to question test results: the app's S3 file list used sample data
 
 ## Take a closer look
 
-- [Screenshots and short explanations](docs/evidence.md)
+- [20 screenshots organized by stage](docs/evidence.md)
 - [Setup and exact settings](docs/implementation.md)
 - [What I tested and what remains unverified](docs/validation.md)
 - [Cleanup](docs/cleanup.md)

@@ -18,6 +18,7 @@ I learned to follow traffic from the public ALB to private compute and distingui
 
 - Configure TLS and an HTTPS listener; the workshop used HTTP.
 - Review IAM policies and security-group sources for least privilege.
+- Enable encryption for the server disk; the launch settings capture shows an unencrypted root volume.
 - Add appropriate CloudTrail, VPC and ALB logs for audit and investigation.
 - Run controlled scaling and recovery tests.
 - Rebuild with Terraform or CloudFormation for repeatability.
